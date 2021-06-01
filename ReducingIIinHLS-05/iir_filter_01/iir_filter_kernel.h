@@ -8,4 +8,3 @@
 
 #define P_MAX 32
 #define Q_MAX 32
-
